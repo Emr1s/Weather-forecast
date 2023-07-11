@@ -1,3 +1,5 @@
+![image](https://github.com/Emr1s/Weather-forecast/assets/33460622/e7b13e67-5030-4016-bb68-f12d50d94dea)
+**The work is related to the weather forecast API**
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
